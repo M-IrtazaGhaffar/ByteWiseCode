@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo+2&family=Inter&family=Michroma&family=Poppins&family=Ubuntu&display=swap');
+
+* {
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+}
+
+.font-1 {
+  font-family: 'Michroma', sans-serif;
+}
+
+.font-2 {
+  font-family: 'Exo 2', sans-serif;
+}
+
+.bg {
+  background: #03001c;
+  color: #f2f2f2;
+}
+
+.purple-color {
+  color: #810ca8;
+}
+
+.active-nav {
+  color: #810ca8;
+  border-bottom: 2px solid #810ca8;
+  padding-bottom: 9px;
+}
+
+.active-btn {
+  background-color: #810ca8;
+  color: #03001c;
+}
